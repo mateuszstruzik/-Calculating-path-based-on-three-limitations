@@ -1,0 +1,4 @@
+﻿  data_collect.cpp
+c:\users\mati\documents\visual studio 2017\projects\rsm_2\data_collect.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RSM.vcxproj -> C:\Users\MATI\Documents\Visual Studio 2017\Projects\RSM_2\Debug\RSM.exe
+  RSM.vcxproj -> C:\Users\MATI\Documents\Visual Studio 2017\Projects\RSM_2\Debug\RSM.pdb (Partial PDB)
